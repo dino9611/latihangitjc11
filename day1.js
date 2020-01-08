@@ -1,0 +1,1 @@
+var s = 'dam lo lagi apa?'
