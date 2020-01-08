@@ -1,2 +1,2 @@
 var b = ' fakhran tetangga reynhard'
-var a='ini budi'
+var c = ' ab'
